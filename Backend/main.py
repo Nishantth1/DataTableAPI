@@ -8,7 +8,7 @@ from db_connection import get_db_connection
 app = FastAPI()
 origins = [
     "http://localhost:3000",
-    "http://ip_address:3000",  # Add such origins for handling CORS
+    "http://192.168.225.76:3000",  # Add such origins for handling CORS
 ]
 app.add_middleware(
     CORSMiddleware,
