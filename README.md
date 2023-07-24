@@ -53,7 +53,8 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Output
-![output](https://github.com/Nishantth1/DataTableAPI/assets/97899868/e66d0ea1-a9de-4013-b287-210177fe1167)
-![out2](https://github.com/Nishantth1/DataTableAPI/assets/97899868/b59b92c0-b5e0-4528-ab64-474fd3aa12fe)
+![output](https://github.com/Nishantth1/DataTableAPI/assets/97899868/05ce30bb-09e5-4ca2-b267-ac77414e515c)
+![out2](https://github.com/Nishantth1/DataTableAPI/assets/97899868/f5e7f69a-99d1-4cfb-8aec-aa6ec3aea9ae)
+
 
 
