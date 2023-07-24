@@ -1,10 +1,10 @@
 import mysql.connector
 
 db_config = {
-    "host": "localhost",
-    "user": "root",  # add Username
-    "password": "",  # Add Password
-    "database": "fastsql"  # Add Database Name
+    "host": "HOST",
+    "user": "DB_USER",  # add Username
+    "password": "PASSWORD",  # Add Password
+    "database": "DB_NAME"  # Add Database Name
 }
 
 
