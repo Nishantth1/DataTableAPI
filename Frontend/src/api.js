@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'http://192.168.225.76:8000'; //Use IP address or local 
+const API_BASE_URL = 'http://ip_address:8000'; //Use IP address or local 
 
 export const uploadData = async (file) => {
   try {
